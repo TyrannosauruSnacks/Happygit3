@@ -11,4 +11,7 @@ rather serious
 
  - this is another change from within RStudio
  
- 
+## Oh okay, I was supposed to pull before the push
+
+ - so I can get the updated somebody else might have done
+ in the meantime

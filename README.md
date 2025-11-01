@@ -19,3 +19,11 @@ rather serious
 ## So this is another Change
 
  - this time from the GitHub website
+
+## Yet another change to keep the flow ##
+
+  * This time I will write some more 
+  * Points
+  * Even if it means less sense to be made
+      * Indent this one because I've learned my markdown-mode
+

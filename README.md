@@ -10,7 +10,7 @@ rather serious
 ## Anyways
 
  - this is another change from within RStudio
- 
+
 ## Oh okay, I was supposed to pull before the push
 
  - so I can get the updated somebody else might have done
@@ -22,8 +22,9 @@ rather serious
 
 ## Yet another change to keep the flow ##
 
-  * This time I will write some more 
+  * This time I will write some more
   * Points
   * Even if it means less sense to be made
       * Indent this one because I've learned my markdown-mode
 
+## This is a section added in the "test_branch"-branch

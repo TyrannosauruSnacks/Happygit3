@@ -27,4 +27,6 @@ rather serious
   * Even if it means less sense to be made
       * Indent this one because I've learned my markdown-mode
 
-## This is a section added in the "test_branch"-branch
+## This section was changed in the "main"-branch
+
+## This section was added in the "main"-branch after the new test branch's creation

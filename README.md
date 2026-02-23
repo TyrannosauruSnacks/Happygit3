@@ -25,8 +25,12 @@ rather serious
   * This time I will write some more
   * Points
   * Even if it means less sense to be made
-      * Indent this one because I've learned my markdown-mode
-
+      * Indent this one because I've learned my markdown-
 ## This section was changed in the "main"-branch
 
 ## This section was added in the "main"-branch after the new test branch's creation
+
+
+
+## Now this section was added in the new "test"-branch
+>>>>>>> new_branch_test

@@ -33,4 +33,3 @@ rather serious
 
 
 ## Now this section was added in the new "test"-branch
->>>>>>> new_branch_test
